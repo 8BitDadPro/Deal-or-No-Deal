@@ -1,4 +1,3 @@
-from logic import logic
 import tkinter.font as font
 from tkinter import *
 from tkinter import Tk
